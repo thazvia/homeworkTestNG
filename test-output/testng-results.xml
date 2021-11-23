@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8415" started-at="2021-11-22T22:56:09 CST" finished-at="2021-11-22T22:56:17 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8415" started-at="2021-11-22T22:56:09 CST" finished-at="2021-11-22T22:56:17 CST">
+      <class name="homeworkIN_TestNG.Homework3">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:homeworkIN_TestNG.Homework3@6f195bc3]" name="readConfig" is-config="true" duration-ms="12" started-at="2021-11-22T22:56:09 CST" finished-at="2021-11-22T22:56:09 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:homeworkIN_TestNG.Homework3@6f195bc3]" name="init" is-config="true" duration-ms="3692" started-at="2021-11-22T22:56:09 CST" finished-at="2021-11-22T22:56:13 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testLoginPage()[pri:1, instance:homeworkIN_TestNG.Homework3@6f195bc3]" name="testLoginPage" duration-ms="4652" started-at="2021-11-22T22:56:13 CST" finished-at="2021-11-22T22:56:17 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPage -->
+      </class> <!-- homeworkIN_TestNG.Homework3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
